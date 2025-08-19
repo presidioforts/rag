@@ -1,4 +1,4 @@
-# Toward Reliable Retrieval-Augmented Generation in DevOps Support Systems
+# Toward Reliable Retrieval-Augmented Generation
 
 **An Engineering Case Study on Multi-Signal Gating for RAG Pipelines**
 
